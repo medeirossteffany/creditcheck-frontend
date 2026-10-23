@@ -16,7 +16,7 @@ A aplicação oferece:
 
 ## Screenshot
 
-![Tela inicial do dashboard do CreditCheck](./docs/creditcheck-dashboard.svg)
+![Tela inicial do dashboard do CreditCheck](image.png)
 
 ## Requisitos
 
